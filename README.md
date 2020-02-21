@@ -24,10 +24,14 @@ Hard
        * learn how to change a variable according to a condition
        * learn how to mix sounds with action blcoks to simulate a real scene
        * learn how to automate the movements of obstacles
+       * learn about more complex conditional statements
+       * learn how to make a sprite appear or disappear
+       * learn how to change the backdrop (backgroud)
        * review how to use blocks to control a sprite from the keyboard
   - Students will get familiar with:
-       * key blocks
-
+       * if-then-else block
+       * hide and show block
+       * switch-backdrop block
 
 ### Output
 https://scratch.mit.edu/projects/367621945/ <br>
