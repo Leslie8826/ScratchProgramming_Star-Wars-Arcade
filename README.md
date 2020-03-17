@@ -22,7 +22,7 @@ Hard
        * learn about operators and variables
        * learn how to use operators in conditional statements
        * learn how to change a variable according to a condition
-       * learn how to mix sounds with action blcoks to simulate a real scene
+       * learn how to mix sounds with action blocks to simulate a real scene
        * learn how to automate the movements of obstacles
        * learn about more complex conditional statements
        * learn how to make a sprite appear or disappear
