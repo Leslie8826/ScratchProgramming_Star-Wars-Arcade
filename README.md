@@ -32,6 +32,8 @@ Hard
        * if-then-else block
        * hide and show block
        * switch-backdrop block
+       * repeat block
+       * start sound block
 
 ### Output
 https://scratch.mit.edu/projects/367621945/ <br>
