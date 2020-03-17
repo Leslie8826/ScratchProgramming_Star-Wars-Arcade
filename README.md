@@ -26,6 +26,7 @@ Hard
        * learn how to automate the movements of obstacles
        * learn about more complex conditional statements
        * learn how to make a sprite appear or disappear
+       * learn how to make a sprite disappear after a certain action ends
        * learn how to change the backdrop (backgroud)
        * review how to use blocks to control a sprite from the keyboard
   - Students will get familiar with:
